@@ -15,6 +15,7 @@
   },
   "Story": {
     "title": "string",
-    "content": "string"
+    "content": "string",
+	"category":"Category"
   }
 }
