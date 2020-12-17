@@ -16,6 +16,5 @@
   "Story": {
     "title": "string",
     "content": "string"
-	"category":"Category"
   }
 }
