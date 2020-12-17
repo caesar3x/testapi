@@ -11,7 +11,8 @@
     "post": "Post"
   },
   "Category": {
-    "name": "string"
+    "name": "string",
+	"parentCategory":"int"
   },
   "Story": {
     "title": "string",
