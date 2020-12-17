@@ -1,7 +1,6 @@
 {
   "Category": {
     "name": "string",
-    "parentCategory": "Category[]"
   },
   "Story": {
     "title": "string",
